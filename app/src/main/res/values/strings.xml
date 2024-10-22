@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPC2</string>
+    <string name="calculate_tip">Подсчет чаевых</string>
+    <string name="bil_amount">Дать чаевых</string>
+    <string name="tip_amount">Tип чаевых: %s</string>
+
+</resources>
